@@ -1,0 +1,21 @@
+# PyRush Dependencies
+# Core HTTP client
+aiohttp>=3.8.0
+
+# Progress bars
+tqdm>=4.64.0
+
+# PDF report generation
+reportlab>=3.6.0
+
+# Plotting and visualization
+matplotlib>=3.5.0
+
+# SSL certificates
+certifi>=2022.0.0
+
+# Development dependencies (optional)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=5.0.0
+# mypy>=1.0.0 
