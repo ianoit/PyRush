@@ -330,7 +330,6 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 ## 📞 Support
 
 - **Issues**: [GitHub Issues](https://github.com/ianoit/pyrush/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/ianoit/pyrush/discussions)
 - **Documentation**: [Wiki](https://github.com/ianoit/pyrush/wiki)
 
 ---
